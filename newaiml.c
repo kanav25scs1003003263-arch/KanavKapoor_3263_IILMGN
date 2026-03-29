@@ -25,6 +25,7 @@
 #define NUM_CLUSTERS 3  // For the K-Means simulation (Step 7: Grouping)
 #define MAX_LINE_LENGTH 1024
 //This means it can hold a total of 1024 characters from my CSV file.
+
 #define FILENAME "reef_data.csv"
 
 // Global structure to hold the dynamically read data
